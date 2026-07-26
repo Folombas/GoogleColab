@@ -5,6 +5,25 @@
 *.png
 *.jpg
 
+# Sensitive data & Credentials
+.env
+.env.*
+secrets.json
+credentials.json
+*.pem
+*.key
+*token*
+*password*
+
 # Python
 __pycache__/
 *.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
