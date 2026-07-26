@@ -1,16 +1,2 @@
-# GoogleColab
-
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
-
-### 🚀 Автоматизированный склад кода из Google Colab
-
-Этот репозиторий используется для хранения кода и экспериментов. Синхронизация происходит автоматически.
-
-**Состав проекта:**
-* `main.py` — чистый Python код, извлеченный из блокнота.
-* `*.ipynb` — полные версии блокнотов с результатами выполнения.
-
-**Последнее обновление:** 24.07.2026 19:21
-
----
-*Сгенерировано автоматически с помощью Colab Sync Script*
+# AI Evolution Tracker
+A program demonstrating the history of Neural Networks.
