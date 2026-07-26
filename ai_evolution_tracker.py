@@ -24,13 +24,13 @@ class AIEvolution:
                 accuracy = min(100, accuracy + step)
                 milestone_history.append(accuracy)
                 print(f"Прогресс обучения: {accuracy}%")
-                time.sleep(0.1)
+                time.sleep(0.05)
             self.history.append(milestone_history)
             print(f"✅ Веха {milestone} достигнута!")
 
-        self.plot_results()
+        self.save_plot()
 
-    def plot_results(self):
+    def save_plot(self):
         plt.figure(figsize=(10, 6))
         for i, m_history in enumerate(self.history):
             plt.plot(m_history, marker='o', label=self.milestones[i])
@@ -40,8 +40,8 @@ class AIEvolution:
         plt.ylabel('Точность (%)')
         plt.legend()
         plt.grid(True, linestyle='--', alpha=0.7)
-        plt.show()
-        print("\n📊 График обучения успешно построен!")
+        plt.savefig('/content/evolution_plot.png')
+        print("\n📊 График сохранен в /content/evolution_plot.png")
 
 if __name__ == '__main__':
     tracker = AIEvolution()
