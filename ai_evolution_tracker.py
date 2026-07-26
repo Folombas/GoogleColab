@@ -26,3 +26,5 @@ class AIEvolution:
 if __name__ == '__main__':
     tracker = AIEvolution()
     tracker.simulate_training()
+def log_progress(msg):
+    print(f"[LOG] {msg}")
