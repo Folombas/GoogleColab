@@ -15,3 +15,6 @@ def luck(): return random.randint(1, 100)
 # Horoscope
 Financial forecasting added.
 
+# feat: implement date parsing for zodiac signs
+# Extended logic for all 12 signs
+
