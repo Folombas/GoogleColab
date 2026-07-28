@@ -31,3 +31,5 @@ def get_eastern_zodiac(year):
 # feat: add 'Financial Health' gauge chart using Chart.js
 
 # fix: prevent UI flicker on dashboard refresh
+
+# build: final release of Astro-Financial v3.0
