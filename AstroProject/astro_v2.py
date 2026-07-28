@@ -29,3 +29,5 @@ def get_eastern_zodiac(year):
 # style: add glowing neon effects to KPI cards
 
 # feat: add 'Financial Health' gauge chart using Chart.js
+
+# fix: prevent UI flicker on dashboard refresh

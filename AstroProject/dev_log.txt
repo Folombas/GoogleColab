@@ -11,3 +11,4 @@
 2026-07-28 17:17:36.950442: chore: cleanup unused legacy variables from v1
 2026-07-28 17:17:37.159688: style: add glowing neon effects to KPI cards
 2026-07-28 17:17:37.370037: feat: add 'Financial Health' gauge chart using Chart.js
+2026-07-28 17:17:37.579960: fix: prevent UI flicker on dashboard refresh
