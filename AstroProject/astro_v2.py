@@ -23,3 +23,5 @@ def get_eastern_zodiac(year):
 # perf: implement basic caching for API responses
 
 # test: add unit tests for zodiac calculation logic
+
+# chore: cleanup unused legacy variables from v1
