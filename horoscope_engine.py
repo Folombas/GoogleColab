@@ -30,3 +30,6 @@ Financial forecasting added.
 # feat: add Chart.js data integration
 # JSON export for charts
 
+# refactor: optimize prediction algorithm
+# Cleaned up if/else blocks
+
