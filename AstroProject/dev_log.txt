@@ -9,3 +9,4 @@
 2026-07-28 17:17:36.527250: perf: implement basic caching for API responses
 2026-07-28 17:17:36.738100: test: add unit tests for zodiac calculation logic
 2026-07-28 17:17:36.950442: chore: cleanup unused legacy variables from v1
+2026-07-28 17:17:37.159688: style: add glowing neon effects to KPI cards

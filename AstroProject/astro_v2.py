@@ -25,3 +25,5 @@ def get_eastern_zodiac(year):
 # test: add unit tests for zodiac calculation logic
 
 # chore: cleanup unused legacy variables from v1
+
+# style: add glowing neon effects to KPI cards
