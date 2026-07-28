@@ -13,3 +13,5 @@ def get_eastern_zodiac(year):
 # feat: integrate CoinGecko API for crypto-financial tracking
 
 # style: update CSS grid for responsive mobile layout
+
+# docs: update README with API documentation and keys
