@@ -36,3 +36,6 @@ Financial forecasting added.
 # feat: add localized Russian descriptions
 # RU translations
 
+# fix: handle leap year birth dates
+# Date edge cases
+
