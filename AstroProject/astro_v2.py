@@ -21,3 +21,5 @@ def get_eastern_zodiac(year):
 # feat: add localized Russian translations for API responses
 
 # perf: implement basic caching for API responses
+
+# test: add unit tests for zodiac calculation logic
