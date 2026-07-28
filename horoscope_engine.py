@@ -11,3 +11,7 @@ templates = ['Invest', 'Save']
 import random
 def luck(): return random.randint(1, 100)
 
+# docs: update README with astrology features
+# Horoscope
+Financial forecasting added.
+
