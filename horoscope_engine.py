@@ -27,3 +27,6 @@ Financial forecasting added.
 # test: verify zodiac date ranges
 # Unit tests for Capricorn/Aquarius
 
+# feat: add Chart.js data integration
+# JSON export for charts
+
