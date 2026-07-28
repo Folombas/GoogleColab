@@ -39,3 +39,6 @@ Financial forecasting added.
 # fix: handle leap year birth dates
 # Date edge cases
 
+# build: prepare unified dashboard build
+# UI components integration
+
