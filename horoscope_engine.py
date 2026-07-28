@@ -24,3 +24,6 @@ Financial forecasting added.
 # feat: add weekly financial advice mapping
 # Weekly data structures
 
+# test: verify zodiac date ranges
+# Unit tests for Capricorn/Aquarius
+
