@@ -21,3 +21,6 @@ Financial forecasting added.
 # style: formatting astro source code
 # Linter fixes
 
+# feat: add weekly financial advice mapping
+# Weekly data structures
+
