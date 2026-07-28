@@ -19,3 +19,5 @@ def get_eastern_zodiac(year):
 # refactor: optimize JSON serialization for dashboard state
 
 # feat: add localized Russian translations for API responses
+
+# perf: implement basic caching for API responses
