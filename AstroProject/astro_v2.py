@@ -27,3 +27,5 @@ def get_eastern_zodiac(year):
 # chore: cleanup unused legacy variables from v1
 
 # style: add glowing neon effects to KPI cards
+
+# feat: add 'Financial Health' gauge chart using Chart.js
