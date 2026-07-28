@@ -17,3 +17,5 @@ def get_eastern_zodiac(year):
 # docs: update README with API documentation and keys
 
 # refactor: optimize JSON serialization for dashboard state
+
+# feat: add localized Russian translations for API responses
