@@ -5,3 +5,5 @@ def get_eastern_zodiac(year):
     return animals[(year - 4) % 12]
 
 # feat: add requests dependency for API calls
+
+# feat: implement Aztro API wrapper for daily horoscopes
