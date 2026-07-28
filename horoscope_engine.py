@@ -33,3 +33,6 @@ Financial forecasting added.
 # refactor: optimize prediction algorithm
 # Cleaned up if/else blocks
 
+# feat: add localized Russian descriptions
+# RU translations
+
