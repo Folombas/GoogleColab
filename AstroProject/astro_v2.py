@@ -9,3 +9,5 @@ def get_eastern_zodiac(year):
 # feat: implement Aztro API wrapper for daily horoscopes
 
 # fix: add timeout handling for external network requests
+
+# feat: integrate CoinGecko API for crypto-financial tracking
