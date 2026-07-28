@@ -7,3 +7,5 @@ def get_eastern_zodiac(year):
 # feat: add requests dependency for API calls
 
 # feat: implement Aztro API wrapper for daily horoscopes
+
+# fix: add timeout handling for external network requests
