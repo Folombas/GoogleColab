@@ -18,3 +18,6 @@ Financial forecasting added.
 # feat: implement date parsing for zodiac signs
 # Extended logic for all 12 signs
 
+# style: formatting astro source code
+# Linter fixes
+
