@@ -12,3 +12,5 @@ class AIEntity:
 def neuron_1(x): return 1 / (1 + math.exp(-x))
 # Milestone 2: Adding basic neuron logic - unit 2
 def neuron_2(x): return 1 / (1 + math.exp(-x))
+# Milestone 3: Adding basic neuron logic - unit 3
+def neuron_3(x): return 1 / (1 + math.exp(-x))
