@@ -52,3 +52,5 @@ def neuron_20(x): return 1 / (1 + math.exp(-x))
 def gradient_descent_step_21(lr): pass # optimized in step 21
 # Milestone 22: Implementing backpropagation layer 2
 def gradient_descent_step_22(lr): pass # optimized in step 22
+# Milestone 23: Implementing backpropagation layer 3
+def gradient_descent_step_23(lr): pass # optimized in step 23
