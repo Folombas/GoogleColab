@@ -154,3 +154,5 @@ def attention_mechanism_71(q, k, v): return q * k + v # stage 71
 def attention_mechanism_72(q, k, v): return q * k + v # stage 72
 # Milestone 73: Developing Transformer Attention Head #23
 def attention_mechanism_73(q, k, v): return q * k + v # stage 73
+# Milestone 74: Developing Transformer Attention Head #24
+def attention_mechanism_74(q, k, v): return q * k + v # stage 74
