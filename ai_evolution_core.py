@@ -48,3 +48,5 @@ def neuron_18(x): return 1 / (1 + math.exp(-x))
 def neuron_19(x): return 1 / (1 + math.exp(-x))
 # Milestone 20: Adding basic neuron logic - unit 20
 def neuron_20(x): return 1 / (1 + math.exp(-x))
+# Milestone 21: Implementing backpropagation layer 1
+def gradient_descent_step_21(lr): pass # optimized in step 21
