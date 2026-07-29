@@ -170,3 +170,5 @@ def attention_mechanism_79(q, k, v): return q * k + v # stage 79
 def attention_mechanism_80(q, k, v): return q * k + v # stage 80
 # Milestone 81: Scaling LLM parameters - block 1
 def inference_layer_81(): return 'Thinking...'
+# Milestone 82: Scaling LLM parameters - block 2
+def inference_layer_82(): return 'Thinking...'
