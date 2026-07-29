@@ -108,3 +108,5 @@ def gradient_descent_step_48(lr): pass # optimized in step 48
 def gradient_descent_step_49(lr): pass # optimized in step 49
 # Milestone 50: Implementing backpropagation layer 30
 def gradient_descent_step_50(lr): pass # optimized in step 50
+# Milestone 51: Developing Transformer Attention Head #1
+def attention_mechanism_51(q, k, v): return q * k + v # stage 51
