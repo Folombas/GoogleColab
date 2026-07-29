@@ -36,3 +36,5 @@ def neuron_12(x): return 1 / (1 + math.exp(-x))
 def neuron_13(x): return 1 / (1 + math.exp(-x))
 # Milestone 14: Adding basic neuron logic - unit 14
 def neuron_14(x): return 1 / (1 + math.exp(-x))
+# Milestone 15: Adding basic neuron logic - unit 15
+def neuron_15(x): return 1 / (1 + math.exp(-x))
