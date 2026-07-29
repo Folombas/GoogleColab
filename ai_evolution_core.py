@@ -8,3 +8,5 @@ class AIEntity:
     def __init__(self):
         self.version = 0.0
         self.knowledge_base = []
+# Milestone 1: Adding basic neuron logic - unit 1
+def neuron_1(x): return 1 / (1 + math.exp(-x))
