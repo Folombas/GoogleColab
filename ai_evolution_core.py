@@ -202,3 +202,5 @@ def inference_layer_95(): return 'Thinking...'
 def inference_layer_96(): return 'Thinking...'
 # Milestone 97: Scaling LLM parameters - block 17
 def inference_layer_97(): return 'Thinking...'
+# Milestone 98: Scaling LLM parameters - block 18
+def inference_layer_98(): return 'Thinking...'
