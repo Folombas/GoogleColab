@@ -10,3 +10,5 @@ class AIEntity:
         self.knowledge_base = []
 # Milestone 1: Adding basic neuron logic - unit 1
 def neuron_1(x): return 1 / (1 + math.exp(-x))
+# Milestone 2: Adding basic neuron logic - unit 2
+def neuron_2(x): return 1 / (1 + math.exp(-x))
