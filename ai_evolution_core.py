@@ -182,3 +182,5 @@ def inference_layer_85(): return 'Thinking...'
 def inference_layer_86(): return 'Thinking...'
 # Milestone 87: Scaling LLM parameters - block 7
 def inference_layer_87(): return 'Thinking...'
+# Milestone 88: Scaling LLM parameters - block 8
+def inference_layer_88(): return 'Thinking...'
