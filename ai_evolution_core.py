@@ -58,3 +58,5 @@ def gradient_descent_step_23(lr): pass # optimized in step 23
 def gradient_descent_step_24(lr): pass # optimized in step 24
 # Milestone 25: Implementing backpropagation layer 5
 def gradient_descent_step_25(lr): pass # optimized in step 25
+# Milestone 26: Implementing backpropagation layer 6
+def gradient_descent_step_26(lr): pass # optimized in step 26
