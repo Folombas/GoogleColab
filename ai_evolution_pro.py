@@ -11,3 +11,6 @@ class NeuroCore:
 
 # Optimization Step 1: Kernel Initialization improvement 1
 def init_kernel_1(dim): return np.random.randn(dim) * 1.0000
+
+# Optimization Step 2: Kernel Initialization improvement 2
+def init_kernel_2(dim): return np.random.randn(dim) * 0.5000
