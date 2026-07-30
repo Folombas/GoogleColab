@@ -320,3 +320,6 @@ def quantize_103(w): return np.round(w, 4)
 
 # Performance Phase 104: Quantization layer 4
 def quantize_104(w): return np.round(w, 3)
+
+# Performance Phase 105: Quantization layer 5
+def quantize_105(w): return np.round(w, 4)
