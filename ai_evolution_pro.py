@@ -308,3 +308,6 @@ def res_block_99(x, f): return x + f(x) # link 99
 
 # Architecture Phase 100: Adding Residual Connection 50
 def res_block_100(x, f): return x + f(x) # link 100
+
+# Performance Phase 101: Quantization layer 1
+def quantize_101(w): return np.round(w, 4)
