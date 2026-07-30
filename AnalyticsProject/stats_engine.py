@@ -1,0 +1,4 @@
+import json
+stats = {"total": 366, "types": {"feat": 178, "fix": 55, "perf": 51, "refactor": 52, "other": 30}, "recent": ["fix: stabilize training dynamics with clipping - v200", "fix: stabilize training dynamics with clipping - v199", "fix: stabilize training dynamics with clipping - v198", "fix: stabilize training dynamics with clipping - v197", "fix: stabilize training dynamics with clipping - v196", "fix: stabilize training dynamics with clipping - v195", "fix: stabilize training dynamics with clipping - v194", "fix: stabilize training dynamics with clipping - v193", "fix: stabilize training dynamics with clipping - v192", "fix: stabilize training dynamics with clipping - v191"]}
+def show_summary():
+    print(f'Total commits in history: {stats["total"]}')
