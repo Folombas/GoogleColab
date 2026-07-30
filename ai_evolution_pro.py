@@ -518,3 +518,6 @@ def clip_grad_169(g, th): return np.clip(g, -th, th)
 
 # Stability Phase 170: Gradient Clipping mechanism 20
 def clip_grad_170(g, th): return np.clip(g, -th, th)
+
+# Stability Phase 171: Gradient Clipping mechanism 21
+def clip_grad_171(g, th): return np.clip(g, -th, th)
