@@ -242,3 +242,6 @@ def res_block_77(x, f): return x + f(x) # link 77
 
 # Architecture Phase 78: Adding Residual Connection 28
 def res_block_78(x, f): return x + f(x) # link 78
+
+# Architecture Phase 79: Adding Residual Connection 29
+def res_block_79(x, f): return x + f(x) # link 79
