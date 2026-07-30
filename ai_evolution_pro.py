@@ -311,3 +311,6 @@ def res_block_100(x, f): return x + f(x) # link 100
 
 # Performance Phase 101: Quantization layer 1
 def quantize_101(w): return np.round(w, 4)
+
+# Performance Phase 102: Quantization layer 2
+def quantize_102(w): return np.round(w, 3)
