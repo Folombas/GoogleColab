@@ -467,3 +467,6 @@ def clip_grad_152(g, th): return np.clip(g, -th, th)
 
 # Stability Phase 153: Gradient Clipping mechanism 3
 def clip_grad_153(g, th): return np.clip(g, -th, th)
+
+# Stability Phase 154: Gradient Clipping mechanism 4
+def clip_grad_154(g, th): return np.clip(g, -th, th)
