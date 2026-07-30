@@ -1,10 +1,13 @@
-def process_stats(log_entries):
-    stats = {'total': 0, 'feat': 0, 'fix': 0, 'other': 0}
-    for entry in log_entries:
-        if '|' not in entry: continue
-        msg = entry.split('|')[0].lower()
-        stats['total'] += 1
-        if 'feat' in msg: stats['feat'] += 1
-        elif 'fix' in msg: stats['fix'] += 1
-        else: stats['other'] += 1
-    return stats
+def calculate_metrics(data_list):
+    '''Aggregates metrics from the list of commit objects.'''
+    metrics = {
+        'total_count': len(data_list),
+        'distribution': {},
+        'last_updated': data_list[0]['timestamp'] if data_list else None
+    }
+
+    for item in data_list:
+        t = item['type']
+        metrics['distribution'][t] = metrics['distribution'].get(t, 0) + 1
+
+    return metrics

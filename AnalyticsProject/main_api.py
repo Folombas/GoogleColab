@@ -1,11 +1,19 @@
 import extractor_service
 import stats_service
 
-def get_analytics_report():
-    raw_data = extractor_service.fetch_raw_log()
-    report = stats_service.process_stats(raw_data)
-    return report
+def run_analytics_pipeline():
+    '''Orchestrates data flow between services.'''
+    raw_entries = extractor_service.fetch_raw_log()
+    final_metrics = stats_service.calculate_metrics(raw_entries)
+
+    print(f"[Analytics Report]")
+    print(f"Total Commits: {final_metrics['total_count']}")
+    print(f"Last Activity: {final_metrics['last_updated']}")
+    print("--- Type Distribution ---")
+    for k, v in final_metrics['distribution'].items():
+        print(f" - {k.upper()}: {v}")
+
+    return final_metrics
 
 if __name__ == '__main__':
-    print('--- Running Analytics Microservices ---')
-    print(get_analytics_report())
+    run_analytics_pipeline()
