@@ -461,3 +461,6 @@ def quantize_150(w): return np.round(w, 3)
 
 # Stability Phase 151: Gradient Clipping mechanism 1
 def clip_grad_151(g, th): return np.clip(g, -th, th)
+
+# Stability Phase 152: Gradient Clipping mechanism 2
+def clip_grad_152(g, th): return np.clip(g, -th, th)
