@@ -68,3 +68,6 @@ def init_kernel_19(dim): return np.random.randn(dim) * 0.0526
 
 # Optimization Step 20: Kernel Initialization improvement 20
 def init_kernel_20(dim): return np.random.randn(dim) * 0.0500
+
+# Optimization Step 21: Kernel Initialization improvement 21
+def init_kernel_21(dim): return np.random.randn(dim) * 0.0476
