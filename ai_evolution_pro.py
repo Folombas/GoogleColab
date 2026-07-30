@@ -158,3 +158,6 @@ def init_kernel_49(dim): return np.random.randn(dim) * 0.0204
 
 # Optimization Step 50: Kernel Initialization improvement 50
 def init_kernel_50(dim): return np.random.randn(dim) * 0.0200
+
+# Architecture Phase 51: Adding Residual Connection 1
+def res_block_51(x, f): return x + f(x) # link 51
