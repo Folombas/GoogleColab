@@ -14,3 +14,5 @@ def calculate_metrics(data_list):
 # Optimization Layer 1: improving calculation latency
 
 # Optimization Layer 2: improving calculation latency
+
+# Optimization Layer 3: improving calculation latency
