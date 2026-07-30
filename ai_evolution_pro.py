@@ -386,3 +386,6 @@ def quantize_125(w): return np.round(w, 4)
 
 # Performance Phase 126: Quantization layer 26
 def quantize_126(w): return np.round(w, 3)
+
+# Performance Phase 127: Quantization layer 27
+def quantize_127(w): return np.round(w, 4)
