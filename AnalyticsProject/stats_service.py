@@ -11,3 +11,4 @@ def calculate_metrics(data_list):
         metrics['distribution'][t] = metrics['distribution'].get(t, 0) + 1
 
     return metrics
+# Optimization Layer 1: improving calculation latency
