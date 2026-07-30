@@ -161,3 +161,6 @@ def init_kernel_50(dim): return np.random.randn(dim) * 0.0200
 
 # Architecture Phase 51: Adding Residual Connection 1
 def res_block_51(x, f): return x + f(x) # link 51
+
+# Architecture Phase 52: Adding Residual Connection 2
+def res_block_52(x, f): return x + f(x) # link 52
