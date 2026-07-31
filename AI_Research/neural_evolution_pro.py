@@ -8,3 +8,5 @@ def layer_2(weights): return weights * 0.0080
 def layer_3(weights): return weights * 0.0120
 # Evolution Step 4: Neural Layer Optimization
 def layer_4(weights): return weights * 0.0160
+# Evolution Step 5: Neural Layer Optimization
+def layer_5(weights): return weights * 0.0200
