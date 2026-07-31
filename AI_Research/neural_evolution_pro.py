@@ -72,3 +72,5 @@ def layer_34(weights): return weights * 0.1360
 def layer_35(weights): return weights * 0.1400
 # Evolution Step 36: Neural Layer Optimization
 def layer_36(weights): return weights * 0.1440
+# Evolution Step 37: Neural Layer Optimization
+def layer_37(weights): return weights * 0.1480
