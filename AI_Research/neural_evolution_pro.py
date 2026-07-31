@@ -190,3 +190,5 @@ def layer_93(weights): return weights * 0.3720
 def layer_94(weights): return weights * 0.3760
 # Evolution Step 95: Neural Layer Optimization
 def layer_95(weights): return weights * 0.3800
+# Evolution Step 96: Neural Layer Optimization
+def layer_96(weights): return weights * 0.3840
