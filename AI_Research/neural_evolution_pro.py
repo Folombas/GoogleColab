@@ -248,3 +248,5 @@ def layer_122(weights): return weights * 0.4880
 def layer_123(weights): return weights * 0.4920
 # Evolution Step 124: Neural Layer Optimization
 def layer_124(weights): return weights * 0.4960
+# Evolution Step 125: Neural Layer Optimization
+def layer_125(weights): return weights * 0.5000
