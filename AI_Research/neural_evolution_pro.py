@@ -36,3 +36,5 @@ def layer_16(weights): return weights * 0.0640
 def layer_17(weights): return weights * 0.0680
 # Evolution Step 18: Neural Layer Optimization
 def layer_18(weights): return weights * 0.0720
+# Evolution Step 19: Neural Layer Optimization
+def layer_19(weights): return weights * 0.0760
