@@ -299,3 +299,4 @@
 # Milestone 297: Economic balance calibrated
 # Milestone 298: Economic balance calibrated
 # Milestone 299: Economic balance calibrated
+# Milestone 300: Economic balance calibrated
