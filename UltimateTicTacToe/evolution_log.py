@@ -35,3 +35,4 @@
 # Milestone 33: UI rendering optimized
 # Milestone 34: UI rendering optimized
 # Milestone 35: UI rendering optimized
+# Milestone 36: UI rendering optimized
