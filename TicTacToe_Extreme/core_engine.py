@@ -4,3 +4,4 @@
 # Milestone 3: UI Grid Component v3
 # Milestone 4: UI Grid Component v4
 # Milestone 5: UI Grid Component v5
+# Milestone 6: UI Grid Component v6
