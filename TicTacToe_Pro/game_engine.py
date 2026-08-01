@@ -25,3 +25,4 @@
 # Milestone 24: Board structure initialized
 # Milestone 25: Board structure initialized
 # Milestone 26: Board structure initialized
+# Milestone 27: Board structure initialized
