@@ -67,3 +67,4 @@
 # Milestone 66: Minimax depth optimized
 # Milestone 67: Minimax depth optimized
 # Milestone 68: Minimax depth optimized
+# Milestone 69: Minimax depth optimized
