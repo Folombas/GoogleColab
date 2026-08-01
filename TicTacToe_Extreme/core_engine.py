@@ -64,3 +64,4 @@
 # Milestone 63: Minimax heuristics optimized
 # Milestone 64: Minimax heuristics optimized
 # Milestone 65: Minimax heuristics optimized
+# Milestone 66: Minimax heuristics optimized
