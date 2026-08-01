@@ -104,3 +104,4 @@
 # Milestone 103: Minimax heuristics optimized
 # Milestone 104: Minimax heuristics optimized
 # Milestone 105: Minimax heuristics optimized
+# Milestone 106: Minimax heuristics optimized
