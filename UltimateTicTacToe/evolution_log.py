@@ -261,3 +261,4 @@
 # Milestone 259: Economic balance calibrated
 # Milestone 260: Economic balance calibrated
 # Milestone 261: Economic balance calibrated
+# Milestone 262: Economic balance calibrated
