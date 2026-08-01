@@ -93,3 +93,4 @@
 # Milestone 92: Minimax depth optimized
 # Milestone 93: Minimax depth optimized
 # Milestone 94: Minimax depth optimized
+# Milestone 95: Minimax depth optimized
