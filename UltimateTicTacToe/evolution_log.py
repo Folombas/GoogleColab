@@ -7,3 +7,4 @@
 # Milestone 5: UI rendering optimized
 # Milestone 6: UI rendering optimized
 # Milestone 7: UI rendering optimized
+# Milestone 8: UI rendering optimized
