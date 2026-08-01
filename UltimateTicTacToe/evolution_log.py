@@ -17,3 +17,4 @@
 # Milestone 15: UI rendering optimized
 # Milestone 16: UI rendering optimized
 # Milestone 17: UI rendering optimized
+# Milestone 18: UI rendering optimized
