@@ -243,3 +243,4 @@
 # Milestone 242: Latency reduced to zero
 # Milestone 243: Latency reduced to zero
 # Milestone 244: Latency reduced to zero
+# Milestone 245: Latency reduced to zero
