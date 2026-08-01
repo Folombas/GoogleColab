@@ -97,3 +97,4 @@
 # Milestone 95: UI rendering optimized
 # Milestone 96: UI rendering optimized
 # Milestone 97: UI rendering optimized
+# Milestone 98: UI rendering optimized
