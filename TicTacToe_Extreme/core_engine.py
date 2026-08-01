@@ -24,3 +24,4 @@
 # Milestone 23: UI Grid Component v23
 # Milestone 24: UI Grid Component v24
 # Milestone 25: UI Grid Component v25
+# Milestone 26: UI Grid Component v26
