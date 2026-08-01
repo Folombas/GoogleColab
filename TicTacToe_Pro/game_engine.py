@@ -294,3 +294,4 @@
 # Milestone 293: Zero-latency render fix
 # Milestone 294: Zero-latency render fix
 # Milestone 295: Zero-latency render fix
+# Milestone 296: Zero-latency render fix
