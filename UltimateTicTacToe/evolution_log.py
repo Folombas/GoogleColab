@@ -266,3 +266,4 @@
 # Milestone 264: Economic balance calibrated
 # Milestone 265: Economic balance calibrated
 # Milestone 266: Economic balance calibrated
+# Milestone 267: Economic balance calibrated
