@@ -49,3 +49,4 @@
 # Milestone 48: Board structure initialized
 # Milestone 49: Board structure initialized
 # Milestone 50: Board structure initialized
+# Milestone 51: Minimax depth optimized
