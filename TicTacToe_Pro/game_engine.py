@@ -4,3 +4,4 @@
 # Milestone 3: Board structure initialized
 # Milestone 4: Board structure initialized
 # Milestone 5: Board structure initialized
+# Milestone 6: Board structure initialized
