@@ -80,3 +80,4 @@
 # Milestone 79: Minimax depth optimized
 # Milestone 80: Minimax depth optimized
 # Milestone 81: Minimax depth optimized
+# Milestone 82: Minimax depth optimized
