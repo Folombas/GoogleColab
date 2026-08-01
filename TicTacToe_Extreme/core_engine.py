@@ -10,3 +10,4 @@
 # Milestone 9: UI Grid Component v9
 # Milestone 10: UI Grid Component v10
 # Milestone 11: UI Grid Component v11
+# Milestone 12: UI Grid Component v12
