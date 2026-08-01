@@ -24,3 +24,4 @@
 # Milestone 22: UI rendering optimized
 # Milestone 23: UI rendering optimized
 # Milestone 24: UI rendering optimized
+# Milestone 25: UI rendering optimized
