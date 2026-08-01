@@ -21,3 +21,4 @@
 # Milestone 20: Board structure initialized
 # Milestone 21: Board structure initialized
 # Milestone 22: Board structure initialized
+# Milestone 23: Board structure initialized
