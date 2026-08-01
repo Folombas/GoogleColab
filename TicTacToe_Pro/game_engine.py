@@ -11,3 +11,4 @@
 # Milestone 10: Board structure initialized
 # Milestone 11: Board structure initialized
 # Milestone 12: Board structure initialized
+# Milestone 13: Board structure initialized
