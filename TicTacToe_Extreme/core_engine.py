@@ -151,3 +151,4 @@
 # Milestone 150: Minimax heuristics optimized
 # Milestone 151: Reward system calibrated
 # Milestone 152: Reward system calibrated
+# Milestone 153: Reward system calibrated
