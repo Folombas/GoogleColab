@@ -37,3 +37,4 @@
 # Milestone 36: Board structure initialized
 # Milestone 37: Board structure initialized
 # Milestone 38: Board structure initialized
+# Milestone 39: Board structure initialized
