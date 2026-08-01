@@ -87,3 +87,4 @@
 # Milestone 86: Minimax depth optimized
 # Milestone 87: Minimax depth optimized
 # Milestone 88: Minimax depth optimized
+# Milestone 89: Minimax depth optimized
