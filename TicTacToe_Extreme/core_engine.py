@@ -70,3 +70,4 @@
 # Milestone 69: Minimax heuristics optimized
 # Milestone 70: Minimax heuristics optimized
 # Milestone 71: Minimax heuristics optimized
+# Milestone 72: Minimax heuristics optimized
