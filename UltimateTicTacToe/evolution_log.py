@@ -253,3 +253,4 @@
 # Milestone 251: Economic balance calibrated
 # Milestone 252: Economic balance calibrated
 # Milestone 253: Economic balance calibrated
+# Milestone 254: Economic balance calibrated
