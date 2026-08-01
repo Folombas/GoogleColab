@@ -58,3 +58,4 @@
 # Milestone 57: UI Grid Component v57
 # Milestone 58: UI Grid Component v58
 # Milestone 59: UI Grid Component v59
+# Milestone 60: UI Grid Component v60
