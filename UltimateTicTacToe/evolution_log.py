@@ -11,3 +11,4 @@
 # Milestone 9: UI rendering optimized
 # Milestone 10: UI rendering optimized
 # Milestone 11: UI rendering optimized
+# Milestone 12: UI rendering optimized
