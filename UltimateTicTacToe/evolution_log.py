@@ -205,3 +205,4 @@
 # Milestone 203: Economic balance calibrated
 # Milestone 204: Economic balance calibrated
 # Milestone 205: Economic balance calibrated
+# Milestone 206: Economic balance calibrated
