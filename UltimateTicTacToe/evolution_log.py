@@ -245,3 +245,4 @@
 # Milestone 243: Economic balance calibrated
 # Milestone 244: Economic balance calibrated
 # Milestone 245: Economic balance calibrated
+# Milestone 246: Economic balance calibrated
