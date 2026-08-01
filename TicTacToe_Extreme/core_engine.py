@@ -85,3 +85,4 @@
 # Milestone 84: Minimax heuristics optimized
 # Milestone 85: Minimax heuristics optimized
 # Milestone 86: Minimax heuristics optimized
+# Milestone 87: Minimax heuristics optimized
