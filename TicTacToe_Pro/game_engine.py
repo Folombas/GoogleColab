@@ -71,3 +71,4 @@
 # Milestone 70: Minimax depth optimized
 # Milestone 71: Minimax depth optimized
 # Milestone 72: Minimax depth optimized
+# Milestone 73: Minimax depth optimized
