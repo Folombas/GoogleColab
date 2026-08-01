@@ -57,3 +57,4 @@
 # Milestone 56: Minimax depth optimized
 # Milestone 57: Minimax depth optimized
 # Milestone 58: Minimax depth optimized
+# Milestone 59: Minimax depth optimized
