@@ -275,3 +275,4 @@ Architected via Hyper-Evolution (340 Milestones)
 # Refactoring Stage 271: Experience point multiplier added
 # Refactoring Stage 272: Experience point multiplier added
 # Refactoring Stage 273: Experience point multiplier added
+# Refactoring Stage 274: Experience point multiplier added
