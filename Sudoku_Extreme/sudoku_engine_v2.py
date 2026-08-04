@@ -311,3 +311,4 @@ import random
 # Milestone 305: Latency reduction module 5
 # Milestone 306: Latency reduction module 6
 # Milestone 307: Latency reduction module 7
+# Milestone 308: Latency reduction module 8
