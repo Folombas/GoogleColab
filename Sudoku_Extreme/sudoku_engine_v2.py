@@ -5,3 +5,4 @@ Sudoku Enterprise Engine v2.0
 import random
 
 # Milestone 1: UI Grid Optimization phase 1
+# Milestone 2: UI Grid Optimization phase 2
