@@ -123,3 +123,4 @@ import random
 # Milestone 117: Solver heuristics improved 17
 # Milestone 118: Solver heuristics improved 18
 # Milestone 119: Solver heuristics improved 19
+# Milestone 120: Solver heuristics improved 20
