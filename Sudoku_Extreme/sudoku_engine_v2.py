@@ -205,3 +205,4 @@ import random
 # Milestone 199: Solver heuristics improved 99
 # Milestone 200: Solver heuristics improved 100
 # Milestone 201: Added medal/badge logic 1
+# Milestone 202: Added medal/badge logic 2
