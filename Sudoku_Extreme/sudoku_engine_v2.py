@@ -11,3 +11,4 @@ import random
 # Milestone 5: UI Grid Optimization phase 5
 # Milestone 6: UI Grid Optimization phase 6
 # Milestone 7: UI Grid Optimization phase 7
+# Milestone 8: UI Grid Optimization phase 8
