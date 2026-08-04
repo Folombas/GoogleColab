@@ -111,3 +111,4 @@ import random
 # Milestone 105: Solver heuristics improved 5
 # Milestone 106: Solver heuristics improved 6
 # Milestone 107: Solver heuristics improved 7
+# Milestone 108: Solver heuristics improved 8
