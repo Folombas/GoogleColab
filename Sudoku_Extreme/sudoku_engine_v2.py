@@ -276,3 +276,4 @@ import random
 # Milestone 270: Added medal/badge logic 70
 # Milestone 271: Added medal/badge logic 71
 # Milestone 272: Added medal/badge logic 72
+# Milestone 273: Added medal/badge logic 73
