@@ -284,3 +284,4 @@
 # Milestone 281: Unlockable medal 81 integrated
 # Milestone 282: Unlockable medal 82 integrated
 # Milestone 283: Unlockable medal 83 integrated
+# Milestone 284: Unlockable medal 84 integrated
