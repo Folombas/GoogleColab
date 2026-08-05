@@ -283,3 +283,4 @@
 # Milestone 280: Unlockable medal 80 integrated
 # Milestone 281: Unlockable medal 81 integrated
 # Milestone 282: Unlockable medal 82 integrated
+# Milestone 283: Unlockable medal 83 integrated
