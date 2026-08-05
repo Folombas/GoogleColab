@@ -7,3 +7,4 @@
 # Milestone 4: Logic layer stabilization 4
 # Milestone 5: Logic layer stabilization 5
 # Milestone 6: Logic layer stabilization 6
+# Milestone 7: Logic layer stabilization 7
