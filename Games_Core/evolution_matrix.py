@@ -226,3 +226,4 @@
 # Milestone 223: Unlockable medal 23 integrated
 # Milestone 224: Unlockable medal 24 integrated
 # Milestone 225: Unlockable medal 25 integrated
+# Milestone 226: Unlockable medal 26 integrated
