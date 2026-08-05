@@ -296,3 +296,4 @@
 # Milestone 293: Unlockable medal 93 integrated
 # Milestone 294: Unlockable medal 94 integrated
 # Milestone 295: Unlockable medal 95 integrated
+# Milestone 296: Unlockable medal 96 integrated
