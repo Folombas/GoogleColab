@@ -256,3 +256,4 @@
 # Milestone 253: Unlockable medal 53 integrated
 # Milestone 254: Unlockable medal 54 integrated
 # Milestone 255: Unlockable medal 55 integrated
+# Milestone 256: Unlockable medal 56 integrated
