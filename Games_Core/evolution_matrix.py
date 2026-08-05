@@ -250,3 +250,4 @@
 # Milestone 247: Unlockable medal 47 integrated
 # Milestone 248: Unlockable medal 48 integrated
 # Milestone 249: Unlockable medal 49 integrated
+# Milestone 250: Unlockable medal 50 integrated
