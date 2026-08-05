@@ -166,3 +166,4 @@
 # Milestone 163: Heuristic scoring improved 63
 # Milestone 164: Heuristic scoring improved 64
 # Milestone 165: Heuristic scoring improved 65
+# Milestone 166: Heuristic scoring improved 66
