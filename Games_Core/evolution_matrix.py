@@ -205,3 +205,4 @@
 # Milestone 202: Unlockable medal 2 integrated
 # Milestone 203: Unlockable medal 3 integrated
 # Milestone 204: Unlockable medal 4 integrated
+# Milestone 205: Unlockable medal 5 integrated
