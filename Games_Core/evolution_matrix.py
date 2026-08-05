@@ -212,3 +212,4 @@
 # Milestone 209: Unlockable medal 9 integrated
 # Milestone 210: Unlockable medal 10 integrated
 # Milestone 211: Unlockable medal 11 integrated
+# Milestone 212: Unlockable medal 12 integrated
