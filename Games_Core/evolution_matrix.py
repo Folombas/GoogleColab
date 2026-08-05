@@ -252,3 +252,4 @@
 # Milestone 249: Unlockable medal 49 integrated
 # Milestone 250: Unlockable medal 50 integrated
 # Milestone 251: Unlockable medal 51 integrated
+# Milestone 252: Unlockable medal 52 integrated
