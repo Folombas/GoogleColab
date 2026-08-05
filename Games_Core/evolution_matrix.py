@@ -179,3 +179,4 @@
 # Milestone 176: Heuristic scoring improved 76
 # Milestone 177: Heuristic scoring improved 77
 # Milestone 178: Heuristic scoring improved 78
+# Milestone 179: Heuristic scoring improved 79
