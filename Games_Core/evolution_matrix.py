@@ -108,3 +108,4 @@
 # Milestone 105: Heuristic scoring improved 5
 # Milestone 106: Heuristic scoring improved 6
 # Milestone 107: Heuristic scoring improved 7
+# Milestone 108: Heuristic scoring improved 8
