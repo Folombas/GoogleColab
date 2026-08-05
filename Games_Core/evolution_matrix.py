@@ -147,3 +147,4 @@
 # Milestone 144: Heuristic scoring improved 44
 # Milestone 145: Heuristic scoring improved 45
 # Milestone 146: Heuristic scoring improved 46
+# Milestone 147: Heuristic scoring improved 47
