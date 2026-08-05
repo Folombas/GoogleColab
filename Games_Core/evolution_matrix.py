@@ -239,3 +239,4 @@
 # Milestone 236: Unlockable medal 36 integrated
 # Milestone 237: Unlockable medal 37 integrated
 # Milestone 238: Unlockable medal 38 integrated
+# Milestone 239: Unlockable medal 39 integrated
