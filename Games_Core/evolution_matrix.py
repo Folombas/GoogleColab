@@ -278,3 +278,4 @@
 # Milestone 275: Unlockable medal 75 integrated
 # Milestone 276: Unlockable medal 76 integrated
 # Milestone 277: Unlockable medal 77 integrated
+# Milestone 278: Unlockable medal 78 integrated
