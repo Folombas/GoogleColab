@@ -268,3 +268,4 @@
 # Milestone 265: Unlockable medal 65 integrated
 # Milestone 266: Unlockable medal 66 integrated
 # Milestone 267: Unlockable medal 67 integrated
+# Milestone 268: Unlockable medal 68 integrated
