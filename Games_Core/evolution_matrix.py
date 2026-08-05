@@ -242,3 +242,4 @@
 # Milestone 239: Unlockable medal 39 integrated
 # Milestone 240: Unlockable medal 40 integrated
 # Milestone 241: Unlockable medal 41 integrated
+# Milestone 242: Unlockable medal 42 integrated
