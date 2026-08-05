@@ -152,3 +152,4 @@
 # Milestone 149: Heuristic scoring improved 49
 # Milestone 150: Heuristic scoring improved 50
 # Milestone 151: Heuristic scoring improved 51
+# Milestone 152: Heuristic scoring improved 52
