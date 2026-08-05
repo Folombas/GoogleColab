@@ -260,3 +260,4 @@
 # Milestone 257: Unlockable medal 57 integrated
 # Milestone 258: Unlockable medal 58 integrated
 # Milestone 259: Unlockable medal 59 integrated
+# Milestone 260: Unlockable medal 60 integrated
