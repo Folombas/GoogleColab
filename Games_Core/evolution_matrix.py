@@ -202,3 +202,4 @@
 # Milestone 199: Heuristic scoring improved 99
 # Milestone 200: Heuristic scoring improved 100
 # Milestone 201: Unlockable medal 1 integrated
+# Milestone 202: Unlockable medal 2 integrated
