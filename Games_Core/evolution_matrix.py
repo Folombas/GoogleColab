@@ -271,3 +271,4 @@
 # Milestone 268: Unlockable medal 68 integrated
 # Milestone 269: Unlockable medal 69 integrated
 # Milestone 270: Unlockable medal 70 integrated
+# Milestone 271: Unlockable medal 71 integrated
