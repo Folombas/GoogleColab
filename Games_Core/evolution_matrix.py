@@ -122,3 +122,4 @@
 # Milestone 119: Heuristic scoring improved 19
 # Milestone 120: Heuristic scoring improved 20
 # Milestone 121: Heuristic scoring improved 21
+# Milestone 122: Heuristic scoring improved 22
