@@ -274,3 +274,4 @@
 # Milestone 271: Unlockable medal 71 integrated
 # Milestone 272: Unlockable medal 72 integrated
 # Milestone 273: Unlockable medal 73 integrated
+# Milestone 274: Unlockable medal 74 integrated
