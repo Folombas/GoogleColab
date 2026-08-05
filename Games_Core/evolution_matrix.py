@@ -292,3 +292,4 @@
 # Milestone 289: Unlockable medal 89 integrated
 # Milestone 290: Unlockable medal 90 integrated
 # Milestone 291: Unlockable medal 91 integrated
+# Milestone 292: Unlockable medal 92 integrated
