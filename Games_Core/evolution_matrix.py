@@ -301,3 +301,4 @@
 # Milestone 298: Unlockable medal 98 integrated
 # Milestone 299: Unlockable medal 99 integrated
 # Milestone 300: Unlockable medal 100 integrated
+# Milestone 301: Final release stabilization 1
