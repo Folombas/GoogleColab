@@ -264,3 +264,4 @@
 # Milestone 261: Unlockable medal 61 integrated
 # Milestone 262: Unlockable medal 62 integrated
 # Milestone 263: Unlockable medal 63 integrated
+# Milestone 264: Unlockable medal 64 integrated
