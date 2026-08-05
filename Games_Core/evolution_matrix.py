@@ -289,3 +289,4 @@
 # Milestone 286: Unlockable medal 86 integrated
 # Milestone 287: Unlockable medal 87 integrated
 # Milestone 288: Unlockable medal 88 integrated
+# Milestone 289: Unlockable medal 89 integrated
