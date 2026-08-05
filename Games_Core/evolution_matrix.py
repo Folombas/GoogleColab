@@ -118,3 +118,4 @@
 # Milestone 115: Heuristic scoring improved 15
 # Milestone 116: Heuristic scoring improved 16
 # Milestone 117: Heuristic scoring improved 17
+# Milestone 118: Heuristic scoring improved 18
