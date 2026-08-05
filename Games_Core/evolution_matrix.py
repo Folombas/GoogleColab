@@ -231,3 +231,4 @@
 # Milestone 228: Unlockable medal 28 integrated
 # Milestone 229: Unlockable medal 29 integrated
 # Milestone 230: Unlockable medal 30 integrated
+# Milestone 231: Unlockable medal 31 integrated
