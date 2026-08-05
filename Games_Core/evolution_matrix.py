@@ -220,3 +220,4 @@
 # Milestone 217: Unlockable medal 17 integrated
 # Milestone 218: Unlockable medal 18 integrated
 # Milestone 219: Unlockable medal 19 integrated
+# Milestone 220: Unlockable medal 20 integrated
