@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Galaxy Defender</title>
+    <style>
+        body { margin: 0; background: #000; color: #fff; font-family: 'Courier New', monospace; overflow: hidden; display: flex; flex-direction: column; align-items: center; }
+        canvas { border: 2px solid #333; background: #050505; cursor: crosshair; }
+        .ui { position: absolute; top: 10px; left: 10px; pointer-events: none; }
+    </style>
+</head>
+<body>
+    <div class='ui'>SCORE: <span id='score'>0</span></div>
+    <canvas id='g'></canvas>
+    <script>
+        const c = document.getElementById('g');
+        const ctx = c.getContext('2d');
+        c.width = 600; c.height = 400;
+        let score = 0; let laser = null; let enemy = {x: 300, y: 50, s: 2};
+        let p = {x: 300};
+
+        function draw() {
+            ctx.clearRect(0,0,600,400);
+            // Player
+            ctx.fillStyle = '#0f0'; ctx.fillRect(p.x - 20, 370, 40, 10);
+            // Enemy
+            ctx.fillStyle = '#f00'; ctx.fillRect(enemy.x - 15, enemy.y, 30, 20);
+            enemy.x += enemy.s;
+            if(enemy.x > 585 || enemy.x < 15) enemy.s *= -1;
+            // Laser
+            if(laser) {
+                ctx.fillStyle = '#ff0'; ctx.fillRect(laser.x-2, laser.y, 4, 10);
+                laser.y -= 5;
+                if(Math.abs(laser.x - enemy.x) < 20 && Math.abs(laser.y - enemy.y) < 20) {
+                    score += 10; laser = null; enemy.y = 50; enemy.s *= 1.1;
+                    document.getElementById('score').innerText = score;
+                }
+                if(laser && laser.y < 0) laser = null;
+            }
+            requestAnimationFrame(draw);
+        }
+        window.onmousemove = (e) => { const rect = c.getBoundingClientRect(); p.x = e.clientX - rect.left; };
+        window.onclick = () => { if(!laser) laser = {x: p.x, y: 360}; };
+        draw();
+    </script>
+</body>
+</html>
