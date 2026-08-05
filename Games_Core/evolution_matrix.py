@@ -236,3 +236,4 @@
 # Milestone 233: Unlockable medal 33 integrated
 # Milestone 234: Unlockable medal 34 integrated
 # Milestone 235: Unlockable medal 35 integrated
+# Milestone 236: Unlockable medal 36 integrated
