@@ -299,3 +299,4 @@
 # Milestone 296: Unlockable medal 96 integrated
 # Milestone 297: Unlockable medal 97 integrated
 # Milestone 298: Unlockable medal 98 integrated
+# Milestone 299: Unlockable medal 99 integrated
