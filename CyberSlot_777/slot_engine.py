@@ -19,3 +19,4 @@ import random
 # Lever Step 14: Drag resistance optimized
 # Lever Step 15: Drag resistance optimized
 # Lever Step 16: Drag resistance optimized
+# Lever Step 17: Drag resistance optimized
