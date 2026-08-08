@@ -118,3 +118,4 @@ import random
 # RNG Iteration 113: Payout ratio set to 0.98
 # RNG Iteration 114: Payout ratio set to 0.98
 # RNG Iteration 115: Payout ratio set to 0.98
+# RNG Iteration 116: Payout ratio set to 0.98
