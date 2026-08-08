@@ -210,3 +210,4 @@ import random
 # Visual Milestone 205: Glow intensity 5 calibrated
 # Visual Milestone 206: Glow intensity 6 calibrated
 # Visual Milestone 207: Glow intensity 7 calibrated
+# Visual Milestone 208: Glow intensity 8 calibrated
