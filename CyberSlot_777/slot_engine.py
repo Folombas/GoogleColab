@@ -103,3 +103,4 @@ import random
 # Lever Step 98: Drag resistance optimized
 # Lever Step 99: Drag resistance optimized
 # Lever Step 100: Drag resistance optimized
+# RNG Iteration 101: Payout ratio set to 0.98
